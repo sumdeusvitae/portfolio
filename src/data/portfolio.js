@@ -3,7 +3,7 @@ export default [
     title: "Movie Picker",
     imgUrl: "/assets/MoviePicker.PNG",
     stack: ["HTML", "CSS", "JavaScript", "Flask", "Jinja", "Bootstrap"],
-    link: "https://moviepicker.kskyi.com",
+    link: "http://moviepicker.kskyi.com",
   },
   {
     title: "Portfolio",

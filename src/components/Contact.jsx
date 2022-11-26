@@ -33,6 +33,7 @@ function Contact() {
             type="submit"
             className="text-center mx-auto inline-block px-8 py-3 w-max text-base font-medium rounded-md text-stone-900 border-4 hover:bg-stone-900 hover:text-white 
             hover:border-white 
+            hover:scale-110
             drop-shadow-md 
             dark:text-white dark:hover:bg-white dark:hover:text-stone-900  dark:hover:border-black"
           >
