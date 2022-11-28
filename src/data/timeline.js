@@ -1,10 +1,10 @@
 export default [
   {
     year: "Today",
-    title: "Freelance Wen Developer",
+    title: "Freelance Web Developer",
     loc: "Remote",
     duration: "half a year",
-    details: "My coding story, might get better in future, but that how it is.",
+    details: "Creating fullstack web aplications.",
   },
   {
     year: "2022",
