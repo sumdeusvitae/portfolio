@@ -7,9 +7,9 @@ export default [
   },
   {
     title: "Portfolio",
-    imgUrl: "/assets/MoviePicker.PNG",
+    imgUrl: "/assets/Portfolio.png",
     stack: ["React", "Vite", "Tailwind"],
-    link: "https://kskyi.com",
+    link: "https://kskyi.netlify.app/",
   },
   {
     title: "Haven't created yet",
