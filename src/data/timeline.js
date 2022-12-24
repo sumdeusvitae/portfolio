@@ -17,7 +17,7 @@ export default [
   {
     year: "2016",
     title: "QA Specialist",
-    loc: "Belmont Trading Co",
+    loc: "Checkmark Personnel. Inc",
     duration: "1 year",
     details:
       "Testing mobile devices and ellectronic equipments(micro processors, screens, memory drivers etc.) Filling out reports and fixing mulfunctions if cost efficient.",
