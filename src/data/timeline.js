@@ -15,7 +15,7 @@ export default [
       "For last over half of the decade I've been managing fleet of 15 drivers on average and few",
   },
   {
-    year: "2017",
+    year: "2016",
     title: "QA Specialist",
     loc: "Belmont Trading Co",
     duration: "1 year",
@@ -29,5 +29,13 @@ export default [
     duration: "4 years",
     details:
       "I pursued the knowledge that a computer Engineering degree had to offer. I learned about computer architecture, computer science theory, an array of programming and aspects of artificial intelligence.",
+  },
+  {
+    year: "2013",
+    title: "System Administrator",
+    loc: "NewGen",
+    duration: "1 years",
+    details:
+      "Maintaining networks and network file systems. Upgrading, installing, and configuring application software for Windows Computers and Play Stations.",
   },
 ];
