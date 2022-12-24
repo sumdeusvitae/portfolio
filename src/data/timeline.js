@@ -12,7 +12,7 @@ export default [
     loc: "VL Trucking Inc",
     duration: "5 years",
     details:
-      "For last over half of the decade I've been managing fleet of 15 drivers on average and few",
+      "As a transportation manager, my responsibilities included managing the day-to-day operations of a company's vehicle fleet, assisting employees and customers with any issues, researching transportation costs and methods, writing transportation policies, scheduling employees and routes, coordinating maintenance and repairs for vehicles, dispatching employees for deliveries, and analyzing delivery information to minimize costs, etc.",
   },
   {
     year: "2016",
