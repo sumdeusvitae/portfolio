@@ -17,4 +17,10 @@ export default [
     stack: ["Deep Learning", "Face Recognition", "CNN", "Python", "Flask"],
     link: "https://github.com/SumDeusVitae/FaceSwap_v01",
   },
+  {
+    title: "Peson recogniser with SORT tracking",
+    imgUrl: "/assets/personrec.PNG",
+    stack: ["Deep Learning", "YOLO", "CNN", "Python", "SORT", "OpenCV"],
+    link: "https://github.com/SumDeusVitae/yolov7nSort",
+  },
 ];
