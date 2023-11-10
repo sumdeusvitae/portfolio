@@ -1,10 +1,10 @@
 export default [
   {
     year: "Today",
-    title: "Freelance Web Developer",
+    title: "Acquiring and refining expertise",
     loc: "Remote",
-    duration: "half a year",
-    details: "Creating fullstack web aplications.",
+    duration: "1 year",
+    details: "Diligently honing expertise in machine learning and deep learning through focused skill acquisition. Developing personal projects. And successfully completing freelance requests.",
   },
   {
     year: "2022",
