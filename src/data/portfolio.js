@@ -1,9 +1,9 @@
 export default [
   {
-    title: "Movie Picker",
-    imgUrl: "/assets/MoviePicker.PNG",
-    stack: ["HTML", "CSS", "JavaScript", "Flask", "Jinja", "Bootstrap"],
-    link: "http://moviepicker.kskyi.com",
+    title: "Tic-Tac-Toe",
+    imgUrl: "/assets/TicTacToe.PNG",
+    stack: ["Python", "MiniMax", "Recursion"],
+    link: "https://github.com/SumDeusVitae/Minimax_tictactoe/tree/main",
   },
   {
     title: "Portfolio",
