@@ -8,7 +8,7 @@ export default [
   {
     title: "Ai MineSweeper",
     imgUrl: "/assets/MineSweeper.png",
-    stack: ["Python", "Knowledge-based agent", "CNF"],
+    stack: ["Python", "Knowledge-based agent", "CNF", "Inference by resolution"],
     link: "https://github.com/SumDeusVitae/AI_MineSweeper",
   },
   {
