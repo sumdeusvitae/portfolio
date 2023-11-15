@@ -6,6 +6,12 @@ export default [
     link: "https://github.com/SumDeusVitae/Minimax_tictactoe/tree/main",
   },
   {
+    title: "Ai MineSweeper",
+    imgUrl: "/assets/MineSweeper.png",
+    stack: ["Python", "Knowledge-based agent", "CNF"],
+    link: "https://github.com/SumDeusVitae/AI_MineSweeper",
+  },
+  {
     title: "Portfolio",
     imgUrl: "/assets/Portfolio.png",
     stack: ["React", "Vite", "Tailwind"],
