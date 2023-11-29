@@ -13,7 +13,7 @@ export default [
   },
   {
     title: "Crossword",
-    imgUrl: "/assets/crosswprd_generator.png",
+    imgUrl: "/assets/crossword_generator.png",
     stack: ["AC-3", "Backtracking Search", "Linear Programming", "Constraint Satisfaction"],
     link: "https://github.com/SumDeusVitae/Crossword",
   },
