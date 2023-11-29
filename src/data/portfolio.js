@@ -12,6 +12,12 @@ export default [
     link: "https://github.com/SumDeusVitae/AI_MineSweeper",
   },
   {
+    title: "Crossword",
+    imgUrl: "/assets/crosswprd_generator.png",
+    stack: ["AC-3", "Backtracking Search", "Linear Programming", "Constraint Satisfaction"],
+    link: "https://github.com/SumDeusVitae/Crossword",
+  },
+  {
     title: "Portfolio",
     imgUrl: "/assets/Portfolio.png",
     stack: ["React", "Vite", "Tailwind"],
