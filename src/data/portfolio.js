@@ -18,6 +18,12 @@ export default [
     link: "https://github.com/SumDeusVitae/Crossword",
   },
   {
+    title: "Shopping Classifier",
+    imgUrl: "/assets/shopping.png",
+    stack: ["Machine Learning", "Scikit-learn", "k-nearest-neighbor", "Confusion Matrix"],
+    link: "https://github.com/SumDeusVitae/shopping_classifier",
+  },
+  {
     title: "Portfolio",
     imgUrl: "/assets/Portfolio.png",
     stack: ["React", "Vite", "Tailwind"],
