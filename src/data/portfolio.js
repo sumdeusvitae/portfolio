@@ -20,8 +20,14 @@ export default [
   {
     title: "Shopping Classifier",
     imgUrl: "/assets/shopping.png",
-    stack: ["Machine Learning", "Scikit-learn", "k-nearest-neighbor", "Confusion Matrix"],
+    stack: ["Machine Learning", "Scikit-learn", "k-nearest-neighbor", "K-fold cross-validation", "Confusion Matrix"],
     link: "https://github.com/SumDeusVitae/shopping_classifier",
+  },
+  {
+    title: "Nim",
+    imgUrl: "/assets/nim.png",
+    stack: ["Reinforcement Learning", "Markov Decision Process", "Q-learning", "Epsilon-greedy"],
+    link: "https://github.com/SumDeusVitae/Nim_reinforcement_learning",
   },
   {
     title: "Portfolio",
