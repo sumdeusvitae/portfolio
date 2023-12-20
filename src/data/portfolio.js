@@ -30,6 +30,12 @@ export default [
     link: "https://github.com/SumDeusVitae/Nim_reinforcement_learning",
   },
   {
+    title: "Traffic Signs",
+    imgUrl: "/assets/traffic.png",
+    stack: ["Convolutional Neural Networks", "TensorFlow", "Sklearn", "Numpy", "Opencv"],
+    link: "https://github.com/SumDeusVitae/Traffic_signs_recognition",
+  },
+  {
     title: "Portfolio",
     imgUrl: "/assets/Portfolio.png",
     stack: ["React", "Vite", "Tailwind"],
