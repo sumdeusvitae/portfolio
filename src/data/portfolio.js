@@ -36,6 +36,12 @@ export default [
     link: "https://github.com/SumDeusVitae/Traffic_signs_recognition",
   },
   {
+    title: "Masked Language Model",
+    imgUrl: "/assets/bert.png",
+    stack: ["Transformers", "BERT", "Tensorflow", "Self-attention"],
+    link: "https://github.com/SumDeusVitae/bert_attention/tree/main",
+  },
+  {
     title: "Portfolio",
     imgUrl: "/assets/Portfolio.png",
     stack: ["React", "Vite", "Tailwind"],
