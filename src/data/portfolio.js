@@ -42,12 +42,6 @@ export default [
     link: "https://github.com/SumDeusVitae/bert_attention/tree/main",
   },
   {
-    title: "Portfolio",
-    imgUrl: "/assets/Portfolio.png",
-    stack: ["React", "Vite", "Tailwind"],
-    link: "https://kskyi.netlify.app/",
-  },
-  {
     title: "Face Swapper",
     imgUrl: "/assets/faceswapv1.PNG",
     stack: ["Deep Learning", "Face Recognition", "CNN", "Python", "Flask"],
