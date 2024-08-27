@@ -53,4 +53,10 @@ export default [
     stack: ["Deep Learning", "YOLO", "CNN", "Python", "SORT", "OpenCV"],
     link: "https://github.com/SumDeusVitae/yolov7nSort",
   },
+  {
+    title: "Static Site Generator",
+    imgUrl: "/assets/static_site_generator.PNG",
+    stack: ["Python", "HTML", "CSS", "OS", "Recursion"],
+    link: "https://github.com/SumDeusVitae/static_site_generator",
+  },
 ];
