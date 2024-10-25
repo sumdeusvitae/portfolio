@@ -1,41 +1,10 @@
 import React, { useState } from "react";
 
-function Portfolio({ items }) {
-  const [showMore, setShowMore] = useState(false);
-
-  const displayedItems = showMore ? items : items.slice(0, 2);
-
-  return (
-    <div>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-        {displayedItems.map((item, index) => (
-          <PortfolioItem
-            key={index}
-            title={item.title}
-            imgUrl={item.imgUrl}
-            stack={item.stack}
-            link={item.link}
-          />
-        ))}
-      </div>
-      {items.length > 2 && (
-        <button
-          onClick={() => setShowMore((prev) => !prev)}
-          className="mt-4 px-4 py-2 border border-stone-900 dark:border-white rounded-md"
-        >
-          {showMore ? "Show Less" : "Show More"}
-        </button>
-      )}
-    </div>
-  );
-}
-
 function PortfolioItem({ title, imgUrl, stack, link }) {
   return (
     <a
       href={link}
       target="_blank"
-      rel="noopener noreferrer"
       className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden hover:scale-105"
     >
       <img
@@ -59,6 +28,38 @@ function PortfolioItem({ title, imgUrl, stack, link }) {
         </p>
       </div>
     </a>
+  );
+}
+
+function Portfolio({ items }) {
+  const [visibleCount, setVisibleCount] = useState(2); // Start with 2 items visible
+
+  const handleLoadMore = () => {
+    setVisibleCount(prevCount => prevCount + 2); // Load 2 more items
+  };
+
+  return (
+    <div>
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        {items.slice(0, visibleCount).map((item, index) => (
+          <PortfolioItem
+            key={index}
+            title={item.title}
+            imgUrl={item.imgUrl}
+            stack={item.stack}
+            link={item.link}
+          />
+        ))}
+      </div>
+      {visibleCount < items.length && ( // Show button only if there are more items to load
+        <button
+          onClick={handleLoadMore}
+          className="mt-4 p-2 bg-blue-500 text-white rounded"
+        >
+          Load More
+        </button>
+      )}
+    </div>
   );
 }
 
