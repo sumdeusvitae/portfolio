@@ -1,5 +1,47 @@
 export default [
   {
+    title: "Gator CLI",
+    imgUrl: "/assets/gator.PNG",
+    stack: ["GO", "Goroutines", "Postgresql", "SQLc", "Goose", "psql"],
+    link: "https://github.com/SumDeusVitae/gator",
+  },
+  {
+    title: "Pokedex REPL",
+    imgUrl: "/assets/pockedex.PNG",
+    stack: ["GO", "net/http", "encoding/json", "REPL", "OS"],
+    link: "https://github.com//SumDeusVitae/pokedexcli",
+  },
+  {
+    title: "Static Site Generator",
+    imgUrl: "/assets/static_site_generator.PNG",
+    stack: ["Python", "HTML", "HTMX", "CSS", "OS", "Recursion"],
+    link: "https://github.com/SumDeusVitae/static_site_generator",
+  },
+  {
+    title: "Person recognition with SORT tracking",
+    imgUrl: "/assets/personrec.PNG",
+    stack: ["Deep Learning", "YOLO", "CNN", "Python", "SORT", "OpenCV"],
+    link: "https://github.com/SumDeusVitae/yolov7nSort",
+  },
+  {
+    title: "Face Swapper",
+    imgUrl: "/assets/faceswapv1.PNG",
+    stack: ["Deep Learning", "Face Recognition", "CNN", "Python", "Flask"],
+    link: "https://github.com/SumDeusVitae/FaceSwap_v01",
+  },
+  {
+    title: "Masked Language Model",
+    imgUrl: "/assets/bert.png",
+    stack: ["Transformers", "BERT", "Tensorflow", "Self-attention"],
+    link: "https://github.com/SumDeusVitae/bert_attention/tree/main",
+  },
+  {
+    title: "Traffic Signs",
+    imgUrl: "/assets/traffic.png",
+    stack: ["Convolutional Neural Networks", "TensorFlow", "Sklearn", "Numpy", "Opencv"],
+    link: "https://github.com/SumDeusVitae/Traffic_signs_recognition",
+  },
+  {
     title: "Tic-Tac-Toe",
     imgUrl: "/assets/TicTacToe.PNG",
     stack: ["Python", "MiniMax", "Recursion"],
@@ -28,35 +70,5 @@ export default [
     imgUrl: "/assets/nim.png",
     stack: ["Reinforcement Learning", "Markov Decision Process", "Q-learning", "Epsilon-greedy"],
     link: "https://github.com/SumDeusVitae/Nim_reinforcement_learning",
-  },
-  {
-    title: "Traffic Signs",
-    imgUrl: "/assets/traffic.png",
-    stack: ["Convolutional Neural Networks", "TensorFlow", "Sklearn", "Numpy", "Opencv"],
-    link: "https://github.com/SumDeusVitae/Traffic_signs_recognition",
-  },
-  {
-    title: "Masked Language Model",
-    imgUrl: "/assets/bert.png",
-    stack: ["Transformers", "BERT", "Tensorflow", "Self-attention"],
-    link: "https://github.com/SumDeusVitae/bert_attention/tree/main",
-  },
-  {
-    title: "Face Swapper",
-    imgUrl: "/assets/faceswapv1.PNG",
-    stack: ["Deep Learning", "Face Recognition", "CNN", "Python", "Flask"],
-    link: "https://github.com/SumDeusVitae/FaceSwap_v01",
-  },
-  {
-    title: "Person recognition with SORT tracking",
-    imgUrl: "/assets/personrec.PNG",
-    stack: ["Deep Learning", "YOLO", "CNN", "Python", "SORT", "OpenCV"],
-    link: "https://github.com/SumDeusVitae/yolov7nSort",
-  },
-  {
-    title: "Static Site Generator",
-    imgUrl: "/assets/static_site_generator.PNG",
-    stack: ["Python", "HTML", "HTMX", "CSS", "OS", "Recursion"],
-    link: "https://github.com/SumDeusVitae/static_site_generator",
   },
 ];
