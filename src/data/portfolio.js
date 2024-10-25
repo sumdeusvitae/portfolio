@@ -3,13 +3,13 @@ export default [
     title: "Gator CLI",
     imgUrl: "/assets/gator.PNG",
     stack: ["GO", "Goroutines", "Postgresql", "SQLc", "Goose", "psql"],
-    link: "https://github.com/SumDeusVitae/gator",
+    link: "https://github.com/SumDeusVitae/gator#readme",
   },
   {
     title: "Pokedex REPL",
     imgUrl: "/assets/pockedex.PNG",
     stack: ["GO", "net/http", "encoding/json", "REPL", "OS"],
-    link: "https://github.com//SumDeusVitae/pokedexcli",
+    link: "https://github.com//SumDeusVitae/pokedexcli#readme",
   },
   {
     title: "Static Site Generator",
