@@ -6,7 +6,7 @@ function Intro() {
       <h2 className="text-4xl md:text-5xl dark:text-white mb-2 md:mb-4 font-bold tracking-wide">
         Hello, welcome to my Portfolio
       </h2>
-      <p className="text-2xl md:text-2xl mb-4 font-medium text-gray-700 dark:text-gray-300">
+      <p className="text-2xl md:text-2xl mb-4 font-medium text-gray-700 dark:text-gray-300 text-left">
         A little bit about myself...
       </p>
       <p className="text-base max-w-max mb-6 font-normal text-gray-800 dark:text-gray-200 leading-relaxed">
