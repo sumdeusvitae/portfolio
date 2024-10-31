@@ -1,5 +1,11 @@
 export default [
   {
+    title: "Chirpy",
+    imgUrl: "/assets/Chirpy.PNG",
+    stack: ["GO", "RESTful", "API", "Postgresql", "SQLc", "Goose", "psql", "Tokenization"],
+    link: "https://github.com/SumDeusVitae/chirpy#readme",
+  },
+  {
     title: "Gator CLI",
     imgUrl: "/assets/gator.PNG",
     stack: ["GO", "Goroutines", "Postgresql", "SQLc", "Goose", "psql"],
