@@ -2,7 +2,7 @@ export default [
   {
     title: "Chirpy",
     imgUrl: "/assets/Chirpy.PNG",
-    stack: ["GO", "RESTful", "API", "Postgresql", "SQLc", "Goose", "psql", "Tokenization"],
+    stack: ["Docker", "GO", "RESTful", "API", "Postgresql", "SQLc", "Goose", "psql", "Tokenization"],
     link: "https://github.com/SumDeusVitae/chirpy#readme",
   },
   {
