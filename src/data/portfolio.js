@@ -1,5 +1,11 @@
 export default [
   {
+    title: "CLI ASSISTANT",
+    imgUrl: "/assets/assistant.PNG",
+    stack: ["Docker", "GO", "RESTful", "API", "Postgresql", "SQLc", "Goose", "psql", "GCP", "CI/CD"],
+    link: "https://cliassistantserver-702681145467.us-central1.run.app/",
+  },
+  {
     title: "Chirpy",
     imgUrl: "/assets/Chirpy.PNG",
     stack: ["Docker", "GO", "RESTful", "API", "Postgresql", "SQLc", "Goose", "psql", "Tokenization"],
