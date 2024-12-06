@@ -6,6 +6,18 @@ export default [
     link: "https://cliassistantserver-702681145467.us-central1.run.app/",
   },
   {
+    title: "Person recognition with SORT tracking",
+    imgUrl: "/assets/personrec.PNG",
+    stack: ["Deep Learning", "YOLO", "CNN", "Python", "SORT", "OpenCV"],
+    link: "https://github.com/SumDeusVitae/yolov7nSort#readme",
+  },
+  {
+    title: "GO Web Crawler",
+    imgUrl: "/assets/crawler.PNG",
+    stack: ["GO", "GO Routine", "Mutex", "HTTP", "HTML", "Recursion", "CLI"],
+    link: "https://github.com/SumDeusVitae/crawler/tree/main#readme",
+  },
+  {
     title: "Chirpy",
     imgUrl: "/assets/Chirpy.PNG",
     stack: ["Docker", "GO", "RESTful", "API", "Postgresql", "SQLc", "Goose", "psql", "Tokenization"],
@@ -29,12 +41,7 @@ export default [
     stack: ["Python", "HTML", "HTMX", "CSS", "OS", "Recursion"],
     link: "https://github.com/SumDeusVitae/static_site_generator",
   },
-  {
-    title: "Person recognition with SORT tracking",
-    imgUrl: "/assets/personrec.PNG",
-    stack: ["Deep Learning", "YOLO", "CNN", "Python", "SORT", "OpenCV"],
-    link: "https://github.com/SumDeusVitae/yolov7nSort",
-  },
+
   {
     title: "Face Swapper",
     imgUrl: "/assets/faceswapv1.PNG",
