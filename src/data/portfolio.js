@@ -6,16 +6,28 @@ export default [
     link: "https://cliassistantserver-702681145467.us-central1.run.app/",
   },
   {
-    title: "Person recognition with SORT tracking",
-    imgUrl: "/assets/personrec.PNG",
-    stack: ["Deep Learning", "YOLO", "CNN", "Python", "SORT", "OpenCV"],
-    link: "https://github.com/SumDeusVitae/yolov7nSort#readme",
-  },
-  {
     title: "GO Web Crawler",
     imgUrl: "/assets/crawler.PNG",
     stack: ["GO", "Concurrency", "Mutex", "HTTP", "HTML", "Recursion", "CLI"],
     link: "https://github.com/SumDeusVitae/crawler/tree/main#readme",
+  },
+  {
+    title: "Pokedex REPL",
+    imgUrl: "/assets/pockedex.PNG",
+    stack: ["GO", "net/http", "encoding/json", "REPL", "OS"],
+    link: "https://github.com//SumDeusVitae/pokedexcli#readme",
+  },
+  {
+    title: "Face Swapper",
+    imgUrl: "/assets/faceswapv1.PNG",
+    stack: ["Deep Learning", "Face Recognition", "CNN", "Python", "Flask"],
+    link: "https://github.com/SumDeusVitae/FaceSwap_v01#readme",
+  },
+  {
+    title: "Person recognition with SORT tracking",
+    imgUrl: "/assets/personrec.PNG",
+    stack: ["Deep Learning", "YOLO", "CNN", "Python", "SORT", "OpenCV"],
+    link: "https://github.com/SumDeusVitae/yolov7nSort#readme",
   },
   {
     title: "Chirpy",
@@ -30,23 +42,10 @@ export default [
     link: "https://github.com/SumDeusVitae/gator#readme",
   },
   {
-    title: "Pokedex REPL",
-    imgUrl: "/assets/pockedex.PNG",
-    stack: ["GO", "net/http", "encoding/json", "REPL", "OS"],
-    link: "https://github.com//SumDeusVitae/pokedexcli#readme",
-  },
-  {
     title: "Static Site Generator",
     imgUrl: "/assets/static_site_generator.PNG",
     stack: ["Python", "HTML", "HTMX", "CSS", "OS", "Recursion"],
     link: "https://github.com/SumDeusVitae/static_site_generator",
-  },
-
-  {
-    title: "Face Swapper",
-    imgUrl: "/assets/faceswapv1.PNG",
-    stack: ["Deep Learning", "Face Recognition", "CNN", "Python", "Flask"],
-    link: "https://github.com/SumDeusVitae/FaceSwap_v01",
   },
   {
     title: "Masked Language Model",
