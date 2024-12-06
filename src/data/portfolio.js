@@ -14,7 +14,7 @@ export default [
   {
     title: "GO Web Crawler",
     imgUrl: "/assets/crawler.PNG",
-    stack: ["GO", "GO Routine", "Mutex", "HTTP", "HTML", "Recursion", "CLI"],
+    stack: ["GO", "Concurrency", "Mutex", "HTTP", "HTML", "Recursion", "CLI"],
     link: "https://github.com/SumDeusVitae/crawler/tree/main#readme",
   },
   {
