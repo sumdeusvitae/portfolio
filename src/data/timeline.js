@@ -1,10 +1,10 @@
 export default [
   {
     year: "Today",
-    title: "Acquiring and refining expertise",
+    title: "Principal",
     loc: "Remote",
-    duration: "1 year",
-    details: "Diligently honing expertise in machine learning and deep learning through focused skill acquisition. Developing personal projects. And successfully completing freelance requests.",
+    duration: "2 years",
+    details: "My mission is to create innovative, tailored products that address the unique needs of each client. In addition to managing end-to-end development, I collaborate with industry leaders like DataAnnotation.tech and Outlier.ai to offer cutting-edge services in data annotation, AI training, and data-driven insights.",
   },
   {
     year: "2022",
