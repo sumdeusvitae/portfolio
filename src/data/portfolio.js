@@ -2,7 +2,7 @@ export default [
   {
     title: "CLI ASSISTANT",
     imgUrl: "/assets/assistant_n.PNG",
-    stack: ["Microservices", "CI/CD", "RESTful", "GCP", "OpenAI", "Turso", "Docker", "GO", "SQLc", "Goose", "psql"],
+    stack: ["GCP", "OpenAI", "Turso", "Docker", "GO", "SQLc", "Goose", "psql", "CI/CD", "RESTful"],
     link: "https://cliassistantserver-702681145467.us-central1.run.app/",
   },
   {
