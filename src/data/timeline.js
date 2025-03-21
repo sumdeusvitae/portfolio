@@ -3,7 +3,7 @@ export default [
     year: "Today",
     title: "Principal",
     loc: "Remote",
-    duration: "2 years",
+    duration: "8 years",
     details: "My mission is to create innovative, tailored products that address the unique needs of each client. In addition to managing end-to-end development, I collaborate with industry leaders like DataAnnotation.tech and Outlier.ai to offer cutting-edge services in data annotation, AI training, and data-driven insights.",
   },
   {
